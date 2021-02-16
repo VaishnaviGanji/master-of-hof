@@ -1,0 +1,29 @@
+.display-box{
+    display: flex;
+    border:3px solid black;
+    width: 1000px;
+    color:rgb(12, 12, 250);
+    margin-left:500px;
+    justify-content: flex-start;
+    align-self: flex-start;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding:2px;
+}
+
+span{
+    text-align:left;
+    margin-left:5rem;
+    margin-right:5rem;
+}
